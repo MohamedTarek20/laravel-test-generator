@@ -7,13 +7,12 @@
         "test",
         "generator"
     ],
-    "homepage": "https://github.com/ahrmerd/laravel-test-generator",
+    "homepage": "https://github.com/mohamedtarek20/laravel-test-generator",
     "license": "MIT",
     "authors": [
         {
-            "name": "ahrmerd",
-            "email": "ahrmerd@gmail.com",
-            "role": "Developer"
+            "name": "mohamedtarekismail95",
+            "email": "mohamedtarekismail95@gmail.com"
         }
     ],
     "require": {
