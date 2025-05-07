@@ -1,5 +1,5 @@
 {
-    "name": "ahrmerd/laravel-test-generator",
+    "name": "mohamedtarek20/laravel-test-generator",
     "description": "The Ahrmerd/TestGenerator package is a Laravel command-line tool that automatically generates API and web tests for your Eloquent models...",
     "keywords": [
         "ahrmerd",
